@@ -21,5 +21,5 @@
 @@||thedaily.tv^
 @@||domain.thedaily.tv^
 @@||howtogeek.com^$document
-@@||movieweb.com^$document
+@@*$domain=movieweb.com
 @@*$domain=snopes.com
