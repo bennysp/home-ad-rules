@@ -1,3 +1,6 @@
+#-------------------------------
+# Just allow the specific domain
+#-------------------------------
 @@||bsky.com^
 @@||roadtrippers.com^
 @@||dominos.com^
@@ -21,6 +24,14 @@
 @@||thedaily.tv^
 @@||domain.thedaily.tv^
 @@||em.realtime.email^
+
+#----------------------------------------------------------------------------------------
+# Allow documents from other sites beyond just this domain, but on this site specifically
+#----------------------------------------------------------------------------------------
 @@||howtogeek.com^$document
+
+#---------------------------------------
+# Allow everything from the base domain
+#---------------------------------------
 @@*$domain=movieweb.com
 @@*$domain=snopes.com
