@@ -30,6 +30,16 @@
 @@||howtogeek.com^$document
 @@||startribune.com^
 @@||obituaries.startribune.com^
+@@||cloudfront.net^$domain=obituaries.startribune.com
+@@||fonts.googleapis.com^$domain=obituaries.startribune.com
+@@||fonts.gstatic.com^$domain=obituaries.startribune.com
+@@||googletagmanager.com^$domain=obituaries.startribune.com
+@@||google-analytics.com^$domain=obituaries.startribune.com
+@@||doubleclick.net^$domain=obituaries.startribune.com
+@@||facebook.net^$domain=obituaries.startribune.com
+@@||cdn.jsdelivr.net^$domain=obituaries.startribune.com
+@@||scorecardresearch.com^$domain=obituaries.startribune.com
+@@||optimizely.com^$domain=obituaries.startribune.com
 
 #---------------------------------------
 # Allow everything from the base domain
