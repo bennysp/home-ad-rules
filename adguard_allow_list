@@ -29,6 +29,7 @@
 #----------------------------------------------------------------------------------------
 @@||howtogeek.com^$document
 @@||startribune.com^$document
+@@||obituaries.startribune.com^$document
 
 #---------------------------------------
 # Allow everything from the base domain
