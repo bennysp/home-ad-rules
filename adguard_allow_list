@@ -28,6 +28,17 @@
 # Allow documents from other sites beyond just this domain, but on this site specifically
 #----------------------------------------------------------------------------------------
 @@||howtogeek.com^$document
+
+#---------------------------------------
+# Allow everything from the base domain
+#---------------------------------------
+@@*$domain=movieweb.com
+@@*$domain=snopes.com
+
+#--------------------------------
+# startribune related
+#--------------------------------
+@@*$domain=startribune.com
 @@||startribune.com^
 @@||obituaries.startribune.com^
 @@||cloudfront.net^$domain=obituaries.startribune.com
@@ -40,10 +51,7 @@
 @@||cdn.jsdelivr.net^$domain=obituaries.startribune.com
 @@||scorecardresearch.com^$domain=obituaries.startribune.com
 @@||optimizely.com^$domain=obituaries.startribune.com
-
-#---------------------------------------
-# Allow everything from the base domain
-#---------------------------------------
-@@*$domain=movieweb.com
-@@*$domain=snopes.com
-@@*$domain=startribune.com
+@@||cdn-resources.prfct.cc^$domain=obituaries.startribune.com
+@@||www.googletagmanager.com^$domain=obituaries.startribune.com
+@@||securepubads.g.doubleclick.net^$domain=obituaries.startribune.com
+@@||cdn-otf-cas.prfct.cc^$domain=obituaries.startribune.com
