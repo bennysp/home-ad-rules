@@ -28,7 +28,6 @@
 # Allow documents from other sites beyond just this domain, but on this site specifically
 #----------------------------------------------------------------------------------------
 @@||howtogeek.com^$document
-@@||startribune.com^$document
 
 #---------------------------------------
 # Allow everything from the base domain
