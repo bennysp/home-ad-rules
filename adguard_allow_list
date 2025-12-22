@@ -30,8 +30,6 @@
 @@||howtogeek.com^$document
 @@||startribune.com^$document
 @@||obituaries.startribune.com^$document
-@@||cloudfront.net^$domain=obituaries.startribune.com
-@@||fonts.googleapis.com^$domain=obituaries.startribune.com
 
 #---------------------------------------
 # Allow everything from the base domain
