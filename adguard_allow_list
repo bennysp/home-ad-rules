@@ -36,12 +36,12 @@
 @@*$domain=snopes.com
 
 #--------------------------------
-# startribune related
+# startribune related - (device_other is in the custom client configurations)
 #--------------------------------
 @@*$domain=startribune.com
 @@||startribune.com^
 @@||obituaries.startribune.com^
 @@||obituaries.startribune.com^document
-@@||cdn-resources.prfct.cc^
-@@||cdn-assets.prfct.cc^
-@@||cdn-otf-cas.prfct.cc^
+@@||cdn-resources.prfct.cc^$ctag=device_other
+@@||cdn-assets.prfct.cc^$ctag=device_other
+@@||cdn-otf-cas.prfct.cc^$ctag=device_other
