@@ -32,6 +32,11 @@
 @@||google-analytics.com^
 @@||mediavine.com^
 @@||sentinelpro.com^
+@@||googlesyndication.com^
+@@||googletagmanager.com^
+@@||skimresources.com^
+@@||tru.am^
+
 
 #----------------------------------------------------------------------------------------
 # Allow documents from other sites beyond just this domain, but on this site specifically
