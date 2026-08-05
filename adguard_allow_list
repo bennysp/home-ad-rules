@@ -26,6 +26,11 @@
 @@||copykat.com^
 
 #----------------------------------------------------------------------------------------
+# Allow domains through, because they are faked out by the adblocker dns rewrite to a fake site (via NPM proxy default site)
+#----------------------------------------------------------------------------------------
+@@||doubleclick.net^
+
+#----------------------------------------------------------------------------------------
 # Allow documents from other sites beyond just this domain, but on this site specifically
 #----------------------------------------------------------------------------------------
 @@||howtogeek.com^$document
